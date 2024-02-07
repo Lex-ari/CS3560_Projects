@@ -48,4 +48,20 @@ public class Instructor {
 
     }
 
+    /**
+     * Gets the instructor name
+     * @return  String of instructor name;
+     */
+    public String getName(){
+        return null;
+    }
+
+    /**
+     * Gets the instructor ID number
+     * @return  Int of instructor ID number
+     */
+    public int getIdNumber(){
+        return idNumber;
+    }
+
 }

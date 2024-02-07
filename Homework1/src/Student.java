@@ -66,4 +66,20 @@ public class Student {
     public void assignGrade(Grade grade){
 
     }
+
+    /**
+     * Gets the student name
+     * @return  String of student name;
+     */
+    public String getName(){
+        return null;
+    }
+
+    /**
+     * Gets the student ID number
+     * @return  Int of student ID number
+     */
+    public int getIdNumber(){
+        return idNumber;
+    }
 }

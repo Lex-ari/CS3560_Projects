@@ -92,4 +92,20 @@ public class Class {
         return null;
     }
 
+    /**
+     * Gets the instructor for this class
+     * @return  Instructor object set for this class object
+     */
+    public Instructor getInstructor(){
+        return null;
+    }
+
+    /**
+     * Gets the lecture hall for this class.
+     * @return  LectureHall object set for this class object
+     */
+    public LectureHall getLectureHall(){
+        return null;
+    }
+
 }

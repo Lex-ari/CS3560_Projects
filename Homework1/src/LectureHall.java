@@ -46,4 +46,12 @@ public class LectureHall {
 
     }
 
+    /**
+     * Gets location for this lecture hall
+     * @return  String location for this lectureHall object
+     */
+    public String getLocation(){
+        return null;
+    }
+
 }
