@@ -83,4 +83,13 @@ public class Class {
 
     }
 
+    /**
+     * Gets a student given student name
+     * @param name  name to search for
+     * @return  Student object with matching name
+     */
+    public Student getStudent(String name){
+        return null;
+    }
+
 }

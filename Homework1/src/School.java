@@ -100,4 +100,40 @@ public class School {
         return null;
     }
 
+    /**
+     * Gets a class object given the class name
+     * @param name  name to search for
+     * @return  Class object with matching name.
+     */
+    public Class getClass(String name){
+        return null;
+    }
+
+    /**
+     * Gets a lecture hall given the hall name
+     * @param name  name to search for
+     * @return  LectureHall object with matching name
+     */
+    public LectureHall getLectureHall(String name){
+        return null;
+    }
+
+    /**
+     * Gets an instructor given instructor name
+     * @param name  name to search for
+     * @return  Instructor object with matching name
+     */
+    public Instructor getInstructor(String name){
+        return null;
+    }
+
+    /**
+     * Gets a student given student name
+     * @param name  name to search for
+     * @return  Student object with matching name
+     */
+    public Student getStudent(String name){
+        return null;
+    }
+
 }
